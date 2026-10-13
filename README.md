@@ -56,3 +56,14 @@ Indicadores y análisis:
 
 - Filtros interactivos por año, proyecto y vendedor.
 - Seguimiento de indicadores comerciales y financieros.
+
+## Capturas del dashboard
+
+### 1. Resumen Ejecutivo
+![Resumen Ejecutivo](capturas/01-resumen-ejecutivo.png)
+
+### 2. Análisis de Ventas
+![Análisis de Ventas](capturas/02-analisis-ventas.png)
+
+### 3. Cobranzas y Morosidad
+![Cobranzas y Morosidad](capturas/03-cobranzas-morosidad.png)
